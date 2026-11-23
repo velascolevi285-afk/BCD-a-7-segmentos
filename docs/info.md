@@ -8,12 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+BCD a 7segmentos
 Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+display 7 segmentos
 
 ## External hardware
 
